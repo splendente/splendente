@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there! Welcome to my GitHub 👋
 
 <!--
 **splendente/splendente** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I'm a frontend developer from Japan.
+- 🌱 I’m currently learning Vue.js, Nuxt.
+- 📫 How to reach me: [X](https://twitter.com/splendente_dev)
